@@ -2,14 +2,14 @@
 
 🎓 **B.Tech Student**  
 🤖 **Aspiring AI / ML Engineer**  
-💻 **Python Developer 
+💻 **Python Developer | Backend & Web Technologies Enthusiast**
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently focusing on **Python, AI & Machine Learning**
-- 🧠 Interested in solving real-world problems using **AI-driven solutions**
-- 🛠️ Building practical tools and applications to strengthen fundamentals
+- 🌱 Currently focusing on **Python, FastAPI, AI & Machine Learning**
+- 🧠 Interested in building **scalable APIs** and **AI-driven applications**
+- 🛠️ Developing real-world tools to strengthen backend fundamentals
 - 🎯 **Goal:** Secure an **Internship / Job in AI & ML domain**
 
 ---
@@ -21,6 +21,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### ⚡ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -43,26 +46,25 @@
 ## 📌 Projects
 
 ### 🔹 Toolbox – Converter
-A multi-purpose online **conversion toolbox** providing utilities like file and format converters with a clean UI. https://converstiontoolbox.vercel.app/
+A multi-purpose online **conversion toolbox** providing utilities like file and format converters.
 
 ### 🔹 Resume Builder
-A web-based **resume builder tool** that allows users to generate professional resumes easily.
+A web-based **resume builder tool** to create professional resumes easily.
 
-> 📂 More projects available in my repositories — constantly improving and adding new ones.
+> 📂 More projects available in my repositories — continuously improving.
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghu24k&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu24k&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghu24k&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu24k&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn:** [Raghuwinder Kumar](https://www.linkedin.com/in/raghuwinder-kumar/)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/raghuwinder-kumar/
 - 📧 **Email:** Raghuwinderkumar24k@gmail.com
 
 ---
 
-⭐ *Always learning, building, and improving — one commit at a time.*
+⭐ *Learning FastAPI, building APIs, and moving towards AI-powered systems.*
