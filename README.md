@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Raghuwinder Kumar
 
-<!--
-**raghu24k/raghu24k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Python & Web Developer | 🤖 AI Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Python, AI & Web Development  
+- 👨‍💻 Working on real-world projects  
+- 🎯 Goal: Become a Python + AI Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: Python, Java, PHP  
+- Web: HTML, CSS, JavaScript  
+- Database: MySQL  
+- Tools: Git, GitHub  
+
+## 📌 Projects
+- 🔹 Chatbot-based Ticket Booking System  
+- 🔹 Event Management Website (PHP & MySQL)  
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
