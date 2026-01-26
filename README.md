@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 - 🌱 Currently focusing on **Python, FastAPI, AI & Machine Learning**
 - 🧠 Interested in building **scalable APIs** and **AI-driven applications**
 - 🛠️ Developing real-world tools to strengthen backend fundamentals
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -40,6 +40,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 Open Source Contributions
+
+### **[Pydantic](https://github.com/pydantic/pydantic)** (26k+ Stars ⭐)
+*Defining the future of Data Validation in Python.*
+
+- **Merged PR [#12743](https://github.com/pydantic/pydantic/pull/12743): Resolve type ignore comments in JSON Schema code**
+    - **Impact:** Improved code quality and type safety in the core [json_schema](cci:1://file:///d:/6%20SEM/Open_Source/pydantic/pydantic/json_schema.py:2023:4-2038:38) module.
+    - **Technical Details:** Refactored complex `FIXME` comments by implementing explicit type casting for `json_schema_extra`, eliminating technical debt and ensuring strictly typed compliance with Python's static analysis tools (MyPy/Pyright).
 
 ---
 
