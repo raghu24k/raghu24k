@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Raghuwinder%20Kumar&fontSize=40&fontColor=ffffff&desc=AI%20%7C%20FastAPI%20%7C%20Backend%20Developer&descAlignY=65)
 # Hi 👋, I'm Raghuwinder Kumar
 
 🎓 **B.Tech Student**  
