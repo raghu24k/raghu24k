@@ -75,6 +75,10 @@ A web-based **resume builder tool** to create professional resumes easily.
 ## 📊 GitHub Stats
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=raghu24k&theme=dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghu24k&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raghu24k&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghu24k&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu24k&layout=compact&theme=tokyonight)
+
 
 
 
