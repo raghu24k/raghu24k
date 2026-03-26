@@ -5,6 +5,7 @@
 🤖 **Aspiring AI / ML Engineer**  
 💻 **Python Developer | Backend & Web Technologies Enthusiast**
 
+
 ---
 
 ## 👨💻 About Me
@@ -71,6 +72,9 @@ A web-based **resume builder tool** to create professional resumes easily.
 > 📂 More projects available in my repositories — continuously improving.
 
 ---
+<div align="center">
+  <img src="https://github-all-stats.vercel.app/api?username=raghu24k" alt="Raghuwinder's GitHub Stats" />
+</div>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=raghu24k&theme=dark)
