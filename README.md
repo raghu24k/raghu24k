@@ -76,7 +76,7 @@ A web-based **resume builder tool** to create professional resumes easily.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-all-stats.vercel.app/api?username=raghu24k&v=1" alt="Raghu's GitHub Stats" />
+  <img src="https://github-all-stats.vercel.app/api?username=raghu24k&v=1" alt="Raghuwinders's GitHub Stats" />
 </div>
 
 <!--- 
