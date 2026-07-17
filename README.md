@@ -3,7 +3,7 @@
 
 🎓 **B.Tech Student**  
 🤖 **Aspiring AI / ML Engineer**  
-💻 **Python Developer | Backend & Web Technologies Enthusiast**
+💻 **Python Developer | Backend & Web Technologies Enthusiast | -.NET MVC and MVC CORE**
 
 
 ---
